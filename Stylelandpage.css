@@ -1,0 +1,47 @@
+.bgimage{
+    background-image:url("http://cdn.home-designing.com/wp-content/uploads/2019/10/grey-and-blue-interior.jpg") ;
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.colors{
+    background-color:rgba(0,0,0,0.65);
+    height:100vh;
+}
+
+.container{
+    float:left;
+    font-size: larger;
+    color:white;
+}
+
+li{
+    list-style-type: none;
+    display:inline;
+    padding-left:35px;
+}
+
+a :hover{
+    color:rgb(255, 230, 0);
+}
+
+a{
+    text-decoration:none;
+}
+
+.group{
+    float: right;   
+}
+
+h1{
+    font-size:50px;
+}
+
+p{
+    font-size: 15px;
+}
+.button :hover{
+    background-color:rgb(54,139,160);
+}
+
